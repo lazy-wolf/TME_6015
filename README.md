@@ -1,2 +1,2 @@
-# python-class-notes
-daily notes from class
+# TME_6015
+Assignments
